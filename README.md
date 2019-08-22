@@ -1,1 +1,1 @@
-# Passport Express starter code
+# Passport.js Express starter code
